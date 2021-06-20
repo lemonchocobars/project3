@@ -7,6 +7,15 @@ html {
     font-family: Arial, Helvetica, sans-serif;
     font-size:14px;
 }
+#header {
+    opacity: 1;
+    background-image: url("https://lemonchocobars.github.io/project3/images/head-background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    height: 600px;
+}
 .container {
     width:750px;
     margin:0 auto;
