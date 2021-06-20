@@ -9,7 +9,7 @@ html {
 }
 #header {
     opacity: 1;
-    background-image: url(https://lemonchocobars.github.io/project3/images/head-background.jpg);
+    background-image: url('https://lemonchocobars.github.io/project3/images/head-background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: scroll;
